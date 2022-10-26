@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on small Java projects;<br>👯 I’m looking to collaborate on server-side projects;<br>🤝 I’m looking for help with starting my journey;<br>🌱 I’m currently learning Java (& Python on my free time);<br>💬 Ask me about code, games and series or movies;<br>⚡ Fun fact about me is that I love to play games, but don't love to code them;
+🔭 I’m currently working on small Java projects;  
+👯 I’m looking to collaborate on server-side projects;  
+🤝 I’m looking for help with starting my journey;  
+🌱 I’m currently learning Java (& Python on my free time);  
+💬 Ask me about code, games and series or movies;  
+⚡ Fun fact about me is that I love to play games, but don't love to code them;
 
 
 ## 🌐 Socials:
