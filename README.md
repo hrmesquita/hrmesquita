@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently learning Java (& Python on my free time);  
-👯 I’m looking to further my knowledge on backend development;
+👯 I’m looking to further my knowledge on backend development;  
 🌱 I love doing CodeWars on my free time;  
-💬 Ask me about code, games and series or movies;
-⚡ Fun fact about me is that I love to play games, but don't love to code them;
+💬 Ask me about code, games and series or movies;  
+⚡ Fun fact about me is that I love to play games, but don't love to code them;  
 
 
 ## 🌐 Socials:
