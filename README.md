@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a self-taught(-ish) software developer, who just loves to find solutions and improve in every way. Although I like some front-end development, my true passion is on the back-end where I try to enhance all my applications.
-
+I'm a self-taught(-ish) software developer who enjoys problem solving and constantly improving. Although I like some front-end development, my true interest lies on the back-end and infrastructure, where I strive to improve all of my applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrainhamesquita)<br>
